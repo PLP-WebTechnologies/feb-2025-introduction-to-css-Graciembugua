@@ -1,0 +1,17 @@
+#grandwave{
+    color:brown;
+    text-transform:none ;
+    font-size: 25px;
+}
+.home-footer{
+    color:grey;
+    font-weight:bold;
+}
+
+body{
+    background-image: url('desktop/web_technologies/pexels-xexusdesigner-777001');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
